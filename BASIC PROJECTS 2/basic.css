@@ -1,0 +1,39 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(197, 221, 232);
+}
+body{
+    /* border: 5px solid rgb(25, 25, 48); */
+    margin: 100px;
+    padding: 100px;
+}
+
+img{
+    height: 250px;
+    width: 200px;
+    border-radius: 60%;
+}
+
+h1{
+    font-size: 60px;
+}
+
+header p{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+main p{
+    line-height: 30px;
+}
+
+ul{
+    line-height: 30px;
+}
+
+.pic{
+    justify-content: center;
+    display: flex;
+    gap: 30px;
+    align-items: center
+}
